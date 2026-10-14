@@ -1,0 +1,21 @@
+driver_id,nama_driver,kota_base,tahun_gabung,status
+D001,Budi Santoso,Jakarta,2024,Aktif
+D002,Siti Wijaya,Bandung,2020,Aktif
+D003,Andi Hidayat,Jakarta,2023,Nonaktif
+D004,Rina Santoso,Jakarta,2019,Aktif
+D005,Joko Wijaya,Medan,2023,Aktif
+D006,Dewi Hidayat,Bandung,2024,Nonaktif
+D007,Agus Wijaya,Yogyakarta,2023,Aktif
+D008,Maya Santoso,Bandung,2024,Nonaktif
+D009,Eko Pratama,Surabaya,2020,Aktif
+D010,Lina Pratama,Jakarta,2019,Nonaktif
+D011,Rudi Santoso,Surabaya,2021,Aktif
+D012,Tika Santoso,Yogyakarta,2023,Aktif
+D013,Hadi Lestari,Jakarta,2023,Aktif
+D014,Nia Hidayat,Surabaya,2023,Aktif
+D015,Fajar Santoso,Jakarta,2024,Aktif
+D016,Wulan Pratama,Jakarta,2020,Aktif
+D017,Bayu Lestari,Surabaya,2022,Aktif
+D018,Sari Wijaya,Surabaya,2021,Aktif
+D019,Dimas Pratama,Jakarta,2023,Aktif
+D020,Putri Hidayat,Bandung,2020,Nonaktif
