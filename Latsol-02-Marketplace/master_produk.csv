@@ -1,0 +1,21 @@
+id_produk,nama_produk,kategori,harga
+P001,Earphone,Elektronik,45000
+P002,Powerbank,Elektronik,25000
+P003,Mouse,Elektronik,120000
+P004,Keyboard,Elektronik,85000
+P005,Webcam,Elektronik,85000
+P006,Kaos,Fashion,60000
+P007,Hoodie,Fashion,45000
+P008,Sepatu,Fashion,450000
+P009,Tas,Fashion,45000
+P010,Topi,Fashion,225000
+P011,Rice Cooker,Rumah Tangga,25000
+P012,Blender,Rumah Tangga,25000
+P013,Lampu LED,Rumah Tangga,45000
+P014,Sapu,Rumah Tangga,85000
+P015,Dispenser,Rumah Tangga,85000
+P016,Serum,Kecantikan,450000
+P017,Sunscreen,Kecantikan,25000
+P018,Lipstik,Kecantikan,450000
+P019,Masker,Kecantikan,85000
+P020,Parfum,Kecantikan,450000
